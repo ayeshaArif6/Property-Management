@@ -35,5 +35,7 @@ Follow the steps below to run the project:
 
 ## Key Points
 1. The Admin role has the most authority regarding the property management application. This means that the Admin is able to view each property listed in the database and alter or edit any information regarding the property or tenant as desired. This includes changing rent due, removing any balance, adding a new tennant to any property, altering the grace period atc. In addition, the Admin is also able to view and make changes directly to the spreedsheet whereas the other roles can only interact with the system through the user interface.
+   
 2. The role of the support staff is not as vast as that of the Admin. The staff can view and alter only the properties assigned to them. They can also make changes if desired and these changes are reflected in the spreadsheet and database. However, they cannot alter tenant information or view more secure information such as a tenant's SSN or private notes written by the Admin.
+   
 3. The Analyst's only role is to be able to view the generated reports regarding each property. The annual reports list total rent, total balance, total taxes and total additional charges for the whole year. The Admin has access to these reports as well. 
