@@ -7,7 +7,7 @@ PropertyManagement is primarily a VBA project that extracts property information
 ## Project Quickstart
 Follow the steps below to run the project:
 1. Clone the repository into a new folder on your desktop.
-2. Open the file, "FinalProjectSER416_aarif6", and click the begin button on the sheet.
+2. Open the file, "FinalProjectSER416_aarif6", and click the "Start Application" button on the sheet.
 3. In the login box, use the following information to login as different roles:
    
      ```bash
@@ -39,3 +39,10 @@ Follow the steps below to run the project:
 2. The role of the support staff is not as vast as that of the Admin. The staff can view and alter only the properties assigned to them. They can also make changes if desired and these changes are reflected in the spreadsheet and database. However, they cannot alter tenant information or view more secure information such as a tenant's SSN or private notes written by the Admin.
    
 3. The Analyst's only role is to be able to view the generated reports regarding each property. The annual reports list total rent, total balance, total taxes and total additional charges for the whole year. The Admin has access to these reports as well. 
+
+## Note:
+Excel tends to block macros from running sometimes as they are considered a security risk for some of the older versions. If the macros are blocked when the file is downloaded, you can unblock them easily in a few steps:
+1. Close the file, left click it and select "properties".
+2. At the very bottom of the General tab in properties, there will be an "unblock" button. Clicking this will unblock the macros so the project can run smoothly.
+3. After clciking "unblock", click "Apply" and save changes.
+4. Reopen the excel file and clcik the "Start Application" button to begin.
