@@ -45,4 +45,4 @@ Excel tends to block macros from running sometimes as they are considered a secu
 1. Close the file, left click it and select "properties".
 2. At the very bottom of the General tab in properties, there will be an "unblock" button. Clicking this will unblock the macros so the project can run smoothly.
 3. After clciking "unblock", click "Apply" and save changes.
-4. Reopen the excel file and clcik the "Start Application" button to begin.
+4. Reopen the excel file and click the "Start Application" button to begin.
