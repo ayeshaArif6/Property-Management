@@ -9,13 +9,14 @@ Follow the steps below to run the project:
 1. Clone the repository into a new folder on your desktop.
 2. Open the file, "FinalProjectSER416_aarif6", and click the begin button on the sheet.
 3. In the login box, use the following information to login as different roles:
+   
      ```bash
-    Admin:
+     Role: Admin
      Username: Sparky
      Password: GoDevils
     ```
      ```bash
-    Suppport Staff:
+     Role: Suppport Staff
      Username: Gabe
      Password: thisIsFun
 
@@ -25,11 +26,12 @@ Follow the steps below to run the project:
      Password: reallyNeat
     ```
      ```bash
-    Analyst:
+     Role: Analyst
      Username: Clarissa
      Password: iLoveExcel
     ```
-4. Once login is complete, select a property from the list to view its data.
+     
+5. Once login is complete, select a property from the list to view its data.
 
 ## Key Points
 1. The Admin role has the most authority regarding the property management application. This means that the Admin is able to view each property listed in the database and alter or edit any information regarding the property or tenant as desired. This includes changing rent due, removing any balance, adding a new tennant to any property, altering the grace period atc. In addition, the Admin is also able to view and make changes directly to the spreedsheet whereas the other roles can only interact with the system through the user interface.
