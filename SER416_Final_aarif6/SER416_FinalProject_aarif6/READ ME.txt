@@ -1,0 +1,14 @@
+﻿READ ME
+
+
+ANALYST role: Ledger data including customers info not accessible
+no access to ledger data (except summary) nor access to any customer data at all
+
+
+I made an assumption regarding the above requirement. Since it says no access to ledger data except summary, I assumed summary would be the same thing as report since the report entails all the property information. Hence, the Analyst only has access to the reports and not to the ledger data directly.
+
+
+Note:
+Please use the given example format in the add new tenant form. Using other formats, especially for phone number and SSN, might break the code.
+
+All the tables with required information are within the same access file that is attached. 
