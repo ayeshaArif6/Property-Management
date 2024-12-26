@@ -1,4 +1,4 @@
-# PropertyManagement
+# Property Management
 A UI designed to provide ease of access regarding different properties stored in a database.
 
 ## Project Overview
