@@ -5,7 +5,7 @@ A UI designed to provide ease of access regarding different properties stored in
 PropertyManagement is primarily a VBA project that extracts property information from an excel sheet and stores relevent data in an Access database. Users interacting directly with the stored inofrmation in the spreadsheet was risky as changes were being made without protection or authorization. The purpose of this project was to limit any direct damage to this stored information by constructing a user interface that can be acessed by specific roles. After logging in, the UI allows the user to access property information for which they are authorized. Property information includes rent due, date of rent due, date of lease expiry, grace period, remaing balance and tenant information. In this way, the actual information from the ledger is no longer altered unless a role has permission to do so. There is also an added layer of privacy in regards to tenant data as that can also only be viewed or changed by specific roles. Not only does this make the data easier to read and understand, but it also limits users in what they can and cannot do. 
 
 ## Development Stack
-![Access](https://img.shields.io/badge/access-%23A4373A.svg?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/access-%23A4373A.svg?style=for-the-badge&logo=microsoft-access&logoColor=white) ![VBA](https://img.shields.io/badge/vba-%236040A4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 ## Project Quickstart
