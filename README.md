@@ -12,7 +12,7 @@ PropertyManagement is primarily a VBA project that extracts property information
 Follow the steps below to run the project:
 1. Clone the repository into a new folder on your desktop.
 2. Open the file, "FinalProjectSER416_aarif6", and click the "Start Application" button on the sheet.
-3. In the login box, use the following information to login as different roles::::
+3. In the login box, use the following information to login as different roles:
    
      ```bash
      Role: Admin
